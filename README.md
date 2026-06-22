@@ -4,7 +4,7 @@
      ============================================================ -->
 
 <!-- ── Animated Header Banner ─────────────────────────────────── -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YF%20Info%20Tech&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Founder%20%26%20Lead%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=c9d1d9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YF%20Info%20Tech&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Founder%20%7C%20Lead%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=56&descSize=18&descColor=c9d1d9)
 
 <!-- ── Animated Greeting ──────────────────────────────────────── -->
 <div align="center">
@@ -327,4 +327,4 @@ WebSocket-based chat application with rooms, file sharing, read receipts, and pu
 </div>
 
 <!-- ── Footer Wave ─────────────────────────────────────────────── -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
