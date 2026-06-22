@@ -4,14 +4,12 @@
      ============================================================ -->
 
 <!-- ── Animated Header Banner ─────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YF%20Info%20Tech&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Founder%20%26%20Lead%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=c9d1d9"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=YF%20Info%20Tech&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Founder%20%26%20Lead%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=c9d1d9)
 
 <!-- ── Animated Greeting ──────────────────────────────────────── -->
 <div align="center">
 
-<a href="https://yfinfotech.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=4F8EF7&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I%27m+the+Founder+of+YF+Info+Tech!+%F0%9F%91%8B;Full-Stack+Developer+with+7%2B+Years+of+Experience;Building+Scalable+%26+Clean+Software+Solutions;Based+in+Tamil+Nadu+%E2%80%94+Serving+Clients+Worldwide+%F0%9F%8C%8D" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4F8EF7&center=true&vCenter=true&multiline=false&width=900&height=60&lines=Hey+there!+I%27m+the+Founder+of+YF+Info+Tech+%F0%9F%91%8B;Full-Stack+Developer+%7C+7%2B+Years+of+Experience;Building+Scalable+%26+Clean+Software+Solutions;Based+in+Tamil+Nadu+%E2%80%94+Serving+Clients+Worldwide+%F0%9F%8C%8D)](https://yfinfotech.com)
 
 <br/>
 
@@ -329,4 +327,4 @@ WebSocket-based chat application with rooms, file sharing, read receipts, and pu
 </div>
 
 <!-- ── Footer Wave ─────────────────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
